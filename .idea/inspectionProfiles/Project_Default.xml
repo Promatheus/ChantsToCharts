@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MY_cupids.Connection.a_person" />
+          <option value="MY_cupids.Connection.b_person" />
+          <option value="MY_cupids.Main.connection" />
+          <option value="MY_cupids.Main.Connection" />
+          <option value="MY_cupids.Matchrix.Matchrix" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
